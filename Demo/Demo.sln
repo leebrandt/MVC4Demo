@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileWebDemo", "MobileWebDemo\MobileWebDemo.csproj", "{C6A44526-CB35-4011-B57F-7D8CB8F41AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundlingDemo", "BundlingDemo\BundlingDemo.csproj", "{0112556E-A07F-4E00-9CAB-AE79CFBCECA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplateDemo", "MobileTemplateDemo\MobileTemplateDemo.csproj", "{824E966E-03F0-459E-A69E-5E9B4FF9EC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A44526-CB35-4011-B57F-7D8CB8F41AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A44526-CB35-4011-B57F-7D8CB8F41AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A44526-CB35-4011-B57F-7D8CB8F41AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A44526-CB35-4011-B57F-7D8CB8F41AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0112556E-A07F-4E00-9CAB-AE79CFBCECA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0112556E-A07F-4E00-9CAB-AE79CFBCECA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0112556E-A07F-4E00-9CAB-AE79CFBCECA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0112556E-A07F-4E00-9CAB-AE79CFBCECA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824E966E-03F0-459E-A69E-5E9B4FF9EC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824E966E-03F0-459E-A69E-5E9B4FF9EC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824E966E-03F0-459E-A69E-5E9B4FF9EC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824E966E-03F0-459E-A69E-5E9B4FF9EC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
