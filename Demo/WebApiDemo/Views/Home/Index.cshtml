@@ -2,7 +2,8 @@
     <div class="content-wrapper">
         <div class="float-left">
             <p class="site-title">
-                <a href="~/">ASP.NET Web API</a></p>
+                <a href="~/">ASP.NET Web API</a>
+            </p>
         </div>
     </div>
 </header>
@@ -55,3 +56,14 @@
         </ol>
     </section>
 </div>
+
+@section scripts
+{
+    <script type="text/javascript">
+        $(function () {
+            $.getJSON("/api/values", function (data) {
+                alert(data);
+            });
+        });
+    </script>
+}

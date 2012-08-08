@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundlingDemo", "BundlingDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplateDemo", "MobileTemplateDemo\MobileTemplateDemo.csproj", "{824E966E-03F0-459E-A69E-5E9B4FF9EC66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDemo", "WebApiDemo\WebApiDemo.csproj", "{E9D7AD7B-8DC8-453D-BD99-BDC0FEA0084A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNewDemo", "FileNewDemo\FileNewDemo.csproj", "{660ACA66-9C07-4140-9A76-EC0E838A300D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{824E966E-03F0-459E-A69E-5E9B4FF9EC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{824E966E-03F0-459E-A69E-5E9B4FF9EC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{824E966E-03F0-459E-A69E-5E9B4FF9EC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D7AD7B-8DC8-453D-BD99-BDC0FEA0084A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D7AD7B-8DC8-453D-BD99-BDC0FEA0084A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D7AD7B-8DC8-453D-BD99-BDC0FEA0084A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D7AD7B-8DC8-453D-BD99-BDC0FEA0084A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660ACA66-9C07-4140-9A76-EC0E838A300D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660ACA66-9C07-4140-9A76-EC0E838A300D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660ACA66-9C07-4140-9A76-EC0E838A300D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660ACA66-9C07-4140-9A76-EC0E838A300D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
